@@ -1,0 +1,10 @@
+.header__lang-link {
+  color: white;
+  font-size: 24px;
+  font-weight: normal;
+  line-height: 28px;
+}
+
+.header__lang-link:nth-child(1) {
+  margin-right: 18px;
+}
