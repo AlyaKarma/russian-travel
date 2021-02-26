@@ -1,0 +1,9 @@
+.cover {
+  background-image: url(../../images/__background.png);
+  box-sizing: border-box;
+  min-height: 740px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+}
