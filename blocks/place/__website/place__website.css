@@ -1,0 +1,6 @@
+.place__website {
+  grid-area: website;
+  display: flex;
+  align-items: flex-end;
+  margin-bottom: 0;
+}
