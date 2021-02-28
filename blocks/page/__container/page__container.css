@@ -1,7 +1,14 @@
 .page__container {
-  max-width: calc(1280px - 48px * 2);
   min-width: 320px;
+  max-width: calc(1280px - 48px * 2);
   font-family: 'Inter', Arial, Helvetica, sans-serif;
   color: #fff;
   margin: 0 auto;
 }
+
+@media screen and (max-width: 1079px) {
+  .page__container {
+    max-width: calc(1024px - 48px * 2);
+  }
+}
+

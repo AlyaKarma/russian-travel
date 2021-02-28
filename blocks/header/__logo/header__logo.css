@@ -1,4 +1,6 @@
 .header__logo {
+  background-size: cover;
   max-width: 100%;
+  object-fit: cover;
   max-height: 100%;
 }
