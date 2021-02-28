@@ -1,12 +1,10 @@
-.block-scale_m {
+.block-scale_s {
   max-width: calc(1280px - 148px * 2);
   margin: 0 auto;
 }
 
 @media screen and (max-width: 1279px) {
-  .block-scale_m {
-    max-width: calc(1024px - 48px * 2);
+  .block-scale_s {
+    max-width: 100%;
   }
 }
-
-

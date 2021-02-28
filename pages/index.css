@@ -1,6 +1,12 @@
 @import url(../vendor/fonts/fonts.css);
 @import url(../vendor/normalize.css);
 
+@import url(../blocks/block-scale/block-scale.css);
+@import url(../blocks/block-scale/_xl/block-scale_xl.css);
+@import url(../blocks/block-scale/_l/block-scale_l.css);
+@import url(../blocks/block-scale/_m/block-scale_m.css);
+@import url(../blocks/block-scale//_s/block-scale_s.css);
+
 @import url(../blocks/page/page.css);
 @import url(../blocks/page/__container/page__container.css);
 

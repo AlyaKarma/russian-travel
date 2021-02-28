@@ -6,7 +6,12 @@
   margin: 0 auto;
   padding-top: 50px;
   max-width: 720px;
-  min-width: 288px;
-  max-height: 200px;
-  min-height: 88px;
+}
+
+@media screen and (max-width: 767px) {
+  .lead__title {
+    max-width: 288px;
+    font-size: 40px;
+    line-height: 44px;
+  }
 }
