@@ -1,11 +1,12 @@
 @import url(../vendor/fonts/fonts.css);
 @import url(../vendor/normalize.css);
 
-@import url(../blocks/section-scale/_place/section-scale_place.css);
-@import url(../blocks/section-scale/_xl/section-scale_xl.css);
-@import url(../blocks/section-scale/_l/section-scale_l.css);
-@import url(../blocks/section-scale/_m/section-scale_m.css);
-@import url(../blocks/section-scale//_s/section-scale_s.css);
+@import url(../blocks/section-scale/section-scale.css);
+@import url(../blocks/section-scale/_size/section-scale_size_l.css);
+@import url(../blocks/section-scale/_size/section-scale_size_m.css);
+@import url(../blocks/section-scale/_size/section-scale_size_place.css);
+@import url(../blocks/section-scale/_size/section-scale_size_s.css);
+@import url(../blocks/section-scale/_size/section-scale_size_xl.css);
 
 @import url(../blocks/page/page.css);
 @import url(../blocks/page/__container/page__container.css);
