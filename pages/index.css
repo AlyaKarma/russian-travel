@@ -1,7 +1,7 @@
 @import url(../vendor/fonts/fonts.css);
 @import url(../vendor/normalize.css);
 
-@import url(../blocks/section-scale/section-scale.css);
+@import url(../blocks/section-scale/_place/section-scale_place.css);
 @import url(../blocks/section-scale/_xl/section-scale_xl.css);
 @import url(../blocks/section-scale/_l/section-scale_l.css);
 @import url(../blocks/section-scale/_m/section-scale_m.css);
