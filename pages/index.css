@@ -1,12 +1,13 @@
 @import url(../vendor/fonts/fonts.css);
 @import url(../vendor/normalize.css);
 
-@import url(../blocks/section-scale/section-scale.css);
-@import url(../blocks/section-scale/_size/section-scale_size_l.css);
-@import url(../blocks/section-scale/_size/section-scale_size_m.css);
-@import url(../blocks/section-scale/_size/section-scale_size_place.css);
-@import url(../blocks/section-scale/_size/section-scale_size_s.css);
-@import url(../blocks/section-scale/_size/section-scale_size_xl.css);
+@import url(../blocks/section/section.css);
+@import url(../blocks/section/__scale/section__scale.css);
+@import url(../blocks/section/__scale/_size/section__scale_size_l.css);
+@import url(../blocks/section/__scale/_size/section__scale_size_m.css);
+@import url(../blocks/section/__scale/_size/section__scale_size_place.css);
+@import url(../blocks/section/__scale/_size/section__scale_size_s.css);
+@import url(../blocks/section/__scale/_size/section__scale_size_xl.css);
 
 @import url(../blocks/page/page.css);
 @import url(../blocks/page/__container/page__container.css);
