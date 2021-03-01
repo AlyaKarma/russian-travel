@@ -1,22 +1,22 @@
-.section_scale_size_xl {
+.section_scale_xl {
   max-width: calc(1280px - 148px * 2);
   margin: 0 auto;
 }
 
 @media screen and (max-width: 1279px) {
-  .section_scale_size_xl {
+  .section_scale_xl {
     max-width: calc(1024px - 48px *2);
   }
 }
 
 @media screen and (max-width: 1023px) {
-  .section_scale_size_xl {
+  .section_scale_xl {
     max-width: calc(768px - 24px * 2);
   }
 }
 
 @media screen and (max-width: 767px) {
-  .section_scale_size_xl {
+  .section_scale_xl {
     max-width: calc(320px - 16px * 2);
   }
 }
