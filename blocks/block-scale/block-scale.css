@@ -1,4 +1,22 @@
 .block-scale {
-  width: calc(100% - 100px*2);
+  max-width: calc(1280px - 148px * 2);
   margin: 0 auto;
+}
+
+@media screen and (max-width: 1279px) {
+  .block-scale {
+    max-width: calc(1024px - 48px *2);
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .block-scale {
+    max-width: calc(768px - 24px * 2);
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .block-scale {
+    max-width: 100%;
+  }
 }

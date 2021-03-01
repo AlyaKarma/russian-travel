@@ -14,3 +14,9 @@
     max-width: calc(768px - 24px * 2);
   }
 }
+
+@media screen and (max-width: 767px) {
+  .block-scale_xl {
+    max-width: calc(320px - 16px * 2);
+  }
+}

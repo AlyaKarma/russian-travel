@@ -3,6 +3,11 @@
   justify-content: space-between;
   align-items: center;
   margin: 28px auto 0;
-  min-width: 320px;
   box-sizing: border-box;
+}
+
+@media screen and (max-width: 767px) {
+  .header {
+    margin: 16px auto 0;
+  }
 }
