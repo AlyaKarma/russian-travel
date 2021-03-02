@@ -1,5 +1,5 @@
 .section_scale_s {
-  max-width: calc(1280px - 148px * 2);
+  max-width: calc(1280px - 48px * 2);
   margin: 0 auto;
 }
 
