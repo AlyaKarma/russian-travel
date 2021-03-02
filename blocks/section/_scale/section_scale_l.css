@@ -17,6 +17,6 @@
 
 @media screen and (max-width: 767px) {
   .section_scale_l {
-    max-width: calc(320px - 16px * 2);
+    max-width: 90%;
   }
 }
